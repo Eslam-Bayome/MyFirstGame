@@ -1,0 +1,62 @@
+body{
+    background-color:rgb(25, 25, 25);;
+    color: white;
+}
+button {
+    cursor: pointer;
+}
+.all {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 0 7px 17px 0;
+    background-color: rgb(65, 63, 63);
+    color: white;
+    font-size:25px;
+
+}
+ .special {
+     background-color: orange;
+}
+.non {
+    font-size: 17px;
+}
+.first {
+    padding: 45px;
+    margin: 20px 6px;
+    border-radius:50%;
+    color: white;
+    border: white 4px solid;
+    background-color: rgb(25, 25, 25);;
+    font-size: 17px;
+}
+i {
+   color: rgb(255, 200, 0);
+
+}
+.po {
+    font-size: 35px;
+    margin:20px 10px 10px 0;
+    font-weight: bold;
+}
+
+#rock {
+    margin: 0;
+}
+#two  {
+margin: 20px 45px;
+font-size: 25px ;
+font-weight: 600;
+}
+#three {
+    font-size: 15px;
+    margin: 30px 5px 40px;
+}
+#one {
+    font-size: 20px;
+    margin-top: 50px;
+}
+#reset , .auto {
+    padding: 8px 15px;
+    font-size: 15px;
+}
